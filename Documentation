@@ -1,1 +1,177 @@
+📊 Data Visualization Internship – Documentation
 
+This document outlines the concepts, tools, and tasks covered during the Data Visualization internship. The focus of the internship is to understand how raw data is transformed into meaningful insights using Power BI, Python, and analytics concepts.
+
+🧹 Data Cleaning in Power BI (Power Query)
+
+Data cleaning is the first and most important step before analysis. In Power BI, data cleaning was performed using Power Query Editor.
+
+🔧 Key Data Cleaning Operations Covered:
+
+✂️ Removing unnecessary columns
+
+🔁 Removing duplicate records
+
+🧼 Handling missing (null) values
+
+🔤 Trimming and cleaning text values
+
+🔄 Changing data types (Text, Number, Date)
+
+📅 Splitting columns (Date into Year, Month, Day)
+
+🔗 Renaming columns for better understanding
+
+📉 Filtering rows based on conditions
+
+These steps helped prepare clean and structured data suitable for analysis and visualization.
+
+🐍 Data Cleaning Using Python (Google Colab)
+
+Data cleaning was also done using Python to understand programmatic data preparation.
+
+🧰 Tools and Techniques Used:
+
+📦 Pandas library for data manipulation
+
+❌ Handling missing values using dropna() and fillna()
+
+🔁 Removing duplicates
+
+✏️ Renaming columns
+
+🔢 Correcting data types
+
+📤 Exporting cleaned data as CSV / Excel files
+
+This helped understand how Python can be used alongside Power BI for preprocessing large datasets.
+
+🔍 Exploratory Data Analysis (EDA)
+
+EDA was introduced to understand data patterns before building dashboards.
+
+📌 Key EDA Activities:
+
+📊 Understanding data distribution
+
+📈 Identifying trends and patterns
+
+🧮 Checking summary statistics
+
+❓ Framing business-related questions
+
+🎬 Practical Task:
+
+EDA was performed on a Netflix dataset, and analytical questions were framed to understand:
+
+Content availability
+
+Content growth over years
+
+Ratings distribution
+
+Country-wise content presence
+
+EDA helped connect data analysis with business decision-making.
+
+🌐 Live API Data Connection
+
+Live data integration was introduced to understand real-time or near real-time reporting.
+
+🔌 Key Concepts Covered:
+
+🌍 Connecting APIs using Web connector in Power BI
+
+📄 Understanding JSON data format
+
+🔄 Transforming API data using Power Query
+
+⏱️ Understanding data refresh
+
+⚡ Difference between static data and live data
+
+This concept helped understand how live dashboards are built in real-world applications.
+
+🎯 Key Performance Indicators (KPIs)
+
+KPIs were introduced to measure performance effectively.
+
+📊 KPI Concepts Covered:
+
+📌 Identifying meaningful KPIs
+
+🧮 Calculating KPIs using measures
+
+🧾 Displaying KPIs using cards and visuals
+
+🚦 Understanding KPI targets and status
+
+KPIs help in quick decision-making and performance tracking.
+
+🧩 Data Modeling in Power BI
+
+Data modeling was covered to understand how multiple tables work together.
+
+🔗 Key Data Modeling Concepts:
+
+🔗 Creating relationships between tables
+
+🔢 Cardinality (One-to-Many, One-to-One, Many-to-Many)
+
+🔁 Active and inactive relationships
+
+➡️ Filter direction (Single / Both)
+
+⭐ Importance of proper relationships for accurate calculations
+
+Good data modeling ensures correct filter flow and accurate results in reports.
+
+🧠 DAX (Data Analysis Expressions)
+
+DAX was introduced to create dynamic calculations in Power BI.
+
+🧮 DAX Concepts Covered:
+
+📐 Base Measures (created from columns)
+
+🧱 Composite Measures (created using measures)
+
+🧠 Understanding that measures return scalar values
+
+🧩 CALCULATE function for applying filters
+
+🔀 Using multiple filters in CALCULATE
+
+🧪 Difference between CALCULATE and slicers
+
+🔍 Conditional logic using IF / ELSE
+
+✨ Formatting DAX for readability using indentation
+
+DAX helped apply business logic and create meaningful insights.
+
+📁 Repository Organization
+
+The repository is structured to maintain clarity and organization:
+
+📂 Data Cleaning
+
+📂 Datasets (Raw & Cleaned)
+
+📂 Power BI Files
+
+📂 Documentation
+
+This structure helps in tracking progress and maintaining project clarity.
+
+🎯 Purpose of This Documentation
+
+This documentation serves as:
+
+📘 A record of concepts learned
+
+🗂️ Reference for review discussions
+
+🧠 Support material for final project development
+
+🚀 Proof of hands-on learning during the internship
