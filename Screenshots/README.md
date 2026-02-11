@@ -2,7 +2,7 @@
 
 In the 3rd week my mentor told me to do an task based on EDA(Exploratory Data Analysis) , he told us to download netflix dataset and told us to frame 5 questions which will help Netflix Company to make decisions and to make profits. i have framed the questions and i have given the explanations also.
 
-## These are the questions I have Framed :
+## These are the questions I have Framed : 
 
 1. What is the distribution of content types (Movies vs TV Shows) in the Netflix catalog?
 
