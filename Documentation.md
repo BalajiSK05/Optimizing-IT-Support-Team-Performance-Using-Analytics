@@ -1,6 +1,10 @@
-📊 Data Visualization Internship – Documentation 
+📊 Data Visualization Internship – Weekly Documentation
 
-This document outlines the concepts, tools, and tasks covered during the Data Visualization internship. The focus of the internship is to understand how raw data is transformed into meaningful insights using Power BI, Python, and analytics concepts.
+This document outlines the concepts, tools, and tasks covered during the Data Visualization Internship. The focus of the internship is to understand how raw data is transformed into meaningful insights using Power BI, Python, and analytics concepts.
+
+🗓️ Week 1 – Introduction to Power BI & Data Cleaning (Power Query)
+
+In the first week, I was introduced to Power BI and learned how to import, clean, and transform raw data using Power Query.
 
 🧹 Data Cleaning in Power BI (Power Query)
 
@@ -26,11 +30,11 @@ Data cleaning is the first and most important step before analysis. In Power BI,
 
 These steps helped prepare clean and structured data suitable for analysis and visualization.
 
-🐍 Data Cleaning Using Python (Google Colab)
+🗓️ Week 2 – Data Cleaning Using Python (Google Colab)
 
-Data cleaning was also done using Python to understand programmatic data preparation.
+In the second week, I learned how to perform data cleaning using Python to understand programmatic data preparation.
 
-🧰 Tools and Techniques Used:
+🐍 Tools and Techniques Used:
 
 📦 Pandas library for data manipulation
 
@@ -44,13 +48,13 @@ Data cleaning was also done using Python to understand programmatic data prepara
 
 📤 Exporting cleaned data as CSV / Excel files
 
-This helped understand how Python can be used alongside Power BI for preprocessing large datasets.
+This helped me understand how Python can be used alongside Power BI for preprocessing large datasets.
 
-🔍 Exploratory Data Analysis (EDA)
+🗓️ Week 3 – Exploratory Data Analysis (EDA)
 
-EDA was introduced to understand data patterns before building dashboards.
+In the third week, I learned about Exploratory Data Analysis (EDA) and its importance before building dashboards.
 
-📌 Key EDA Activities:
+🔍 Key EDA Activities:
 
 📊 Understanding data distribution
 
@@ -58,7 +62,7 @@ EDA was introduced to understand data patterns before building dashboards.
 
 🧮 Checking summary statistics
 
-❓ Framing business-related questions
+❓ Framing business-related analytical questions
 
 🎬 Practical Task:
 
@@ -74,11 +78,11 @@ Country-wise content presence
 
 EDA helped connect data analysis with business decision-making.
 
-🌐 Live API Data Connection
+🗓️ Week 4 – Live API Data Connection
 
-Live data integration was introduced to understand real-time or near real-time reporting.
+In the fourth week, I learned how to connect live data using APIs in Power BI.
 
-🔌 Key Concepts Covered:
+🌐 Key Concepts Covered:
 
 🌍 Connecting APIs using Web connector in Power BI
 
@@ -90,13 +94,13 @@ Live data integration was introduced to understand real-time or near real-time r
 
 ⚡ Difference between static data and live data
 
-This concept helped understand how live dashboards are built in real-world applications.
+This helped in understanding how real-time dashboards are built in industry environments.
 
-🎯 Key Performance Indicators (KPIs)
+🗓️ Week 5 – Key Performance Indicators (KPIs)
 
-KPIs were introduced to measure performance effectively.
+In the fifth week, the focus was on understanding and designing KPIs for performance measurement.
 
-📊 KPI Concepts Covered:
+🎯 KPI Concepts Covered:
 
 📌 Identifying meaningful KPIs
 
@@ -108,11 +112,11 @@ KPIs were introduced to measure performance effectively.
 
 KPIs help in quick decision-making and performance tracking.
 
-🧩 Data Modeling in Power BI
+🗓️ Week 6 – Data Modeling in Power BI
 
-Data modeling was covered to understand how multiple tables work together.
+In the sixth week, I learned about data modeling and how different tables are connected in Power BI.
 
-🔗 Key Data Modeling Concepts:
+🧩 Key Data Modeling Concepts:
 
 🔗 Creating relationships between tables
 
@@ -126,11 +130,11 @@ Data modeling was covered to understand how multiple tables work together.
 
 Good data modeling ensures correct filter flow and accurate results in reports.
 
-🧠 DAX (Data Analysis Expressions)
+🗓️ Week 7 – DAX (Data Analysis Expressions)
 
-DAX was introduced to create dynamic calculations in Power BI.
+In the seventh week, I was introduced to DAX for creating dynamic calculations in Power BI.
 
-🧮 DAX Concepts Covered:
+🧠 DAX Concepts Covered:
 
 📐 Base Measures (created from columns)
 
@@ -148,7 +152,7 @@ DAX was introduced to create dynamic calculations in Power BI.
 
 ✨ Formatting DAX for readability using indentation
 
-DAX helped apply business logic and create meaningful insights.
+DAX helped apply business logic and create meaningful insights in dashboards.
 
 📁 Repository Organization
 
@@ -156,22 +160,12 @@ The repository is structured to maintain clarity and organization:
 
 📂 Data Cleaning
 
-📂 Datasets (Raw & Cleaned)
+📂 Data (Raw & Cleaned Datasets)
 
 📂 Power BI Files
 
 📂 Documentation
 
+📂 Screenshots
+
 This structure helps in tracking progress and maintaining project clarity.
-
-🎯 Purpose of This Documentation
-
-This documentation serves as:
-
-📘 A record of concepts learned
-
-🗂️ Reference for review discussions
-
-🧠 Support material for final project development
-
-🚀 Proof of hands-on learning during the internship
