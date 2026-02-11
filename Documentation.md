@@ -1,4 +1,4 @@
-📊 Data Visualization Internship – Documentation
+📊 Data Visualization Internship – Documentation 
 
 This document outlines the concepts, tools, and tasks covered during the Data Visualization internship. The focus of the internship is to understand how raw data is transformed into meaningful insights using Power BI, Python, and analytics concepts.
 
