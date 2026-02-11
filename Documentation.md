@@ -1,8 +1,8 @@
-📊 #Data Visualization Internship – Weekly Documentation
+📊 Data Visualization Internship – Weekly Documentation
 
 This document outlines the concepts, tools, and tasks covered during the Data Visualization Internship. The focus of the internship is to understand how raw data is transformed into meaningful insights using Power BI, Python, and analytics concepts.
 
-🗓️ ## Week 1 – Introduction to Power BI & Data Cleaning (Power Query)
+🗓️ Week 1 – Introduction to Power BI & Data Cleaning (Power Query)
 
 In the first week, I was introduced to Power BI and learned how to import, clean, and transform raw data using Power Query.
 
@@ -30,7 +30,7 @@ Data cleaning is the first and most important step before analysis. In Power BI,
 
 These steps helped prepare clean and structured data suitable for analysis and visualization.
 
-🗓️ ##Week 2 – Data Cleaning Using Python (Google Colab)
+🗓️ Week 2 – Data Cleaning Using Python (Google Colab)
 
 In the second week, I learned how to perform data cleaning using Python to understand programmatic data preparation.
 
@@ -50,7 +50,7 @@ In the second week, I learned how to perform data cleaning using Python to under
 
 This helped me understand how Python can be used alongside Power BI for preprocessing large datasets.
 
-🗓️ ##Week 3 – Exploratory Data Analysis (EDA)
+🗓️ Week 3 – Exploratory Data Analysis (EDA)
 
 In the third week, I learned about Exploratory Data Analysis (EDA) and its importance before building dashboards.
 
@@ -78,7 +78,7 @@ Country-wise content presence
 
 EDA helped connect data analysis with business decision-making.
 
-🗓️ ##Week 4 – Live API Data Connection
+🗓️ Week 4 – Live API Data Connection
 
 In the fourth week, I learned how to connect live data using APIs in Power BI.
 
@@ -96,7 +96,7 @@ In the fourth week, I learned how to connect live data using APIs in Power BI.
 
 This helped in understanding how real-time dashboards are built in industry environments.
 
-🗓️ ##Week 5 – Key Performance Indicators (KPIs)
+🗓️ Week 5 – Key Performance Indicators (KPIs)
 
 In the fifth week, the focus was on understanding and designing KPIs for performance measurement.
 
@@ -112,7 +112,7 @@ In the fifth week, the focus was on understanding and designing KPIs for perform
 
 KPIs help in quick decision-making and performance tracking.
 
-🗓️ ##Week 6 – Data Modeling in Power BI
+🗓️ Week 6 – Data Modeling in Power BI
 
 In the sixth week, I learned about data modeling and how different tables are connected in Power BI.
 
@@ -130,7 +130,7 @@ In the sixth week, I learned about data modeling and how different tables are co
 
 Good data modeling ensures correct filter flow and accurate results in reports.
 
-🗓️ ##Week 7 – DAX (Data Analysis Expressions)
+🗓️ Week 7 – DAX (Data Analysis Expressions)
 
 In the seventh week, I was introduced to DAX for creating dynamic calculations in Power BI.
 
