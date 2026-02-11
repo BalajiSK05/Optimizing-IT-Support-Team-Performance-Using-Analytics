@@ -2,7 +2,7 @@
 
 This document outlines the concepts, tools, and tasks covered during the Data Visualization Internship. The focus of the internship is to understand how raw data is transformed into meaningful insights using Power BI, Python, and analytics concepts.
 
-🗓️ ##Week 1 – Introduction to Power BI & Data Cleaning (Power Query)
+🗓️ ## Week 1 – Introduction to Power BI & Data Cleaning (Power Query)
 
 In the first week, I was introduced to Power BI and learned how to import, clean, and transform raw data using Power Query.
 
